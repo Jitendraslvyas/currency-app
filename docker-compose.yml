@@ -1,0 +1,7 @@
+version: '3.1'
+services:
+  API:
+    image: 'currency-app'
+    container_name: currency-app
+    ports:
+      - "8081:8081"

@@ -1,0 +1,6 @@
+exchange:
+    api: https://open.er-api.com/v6/latest/%s?apikey=%s
+    api.key: f44cbdcf6842126098e78607
+
+server:
+    port: 8081
